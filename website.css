@@ -3,8 +3,7 @@ body{
 }
 .main{
     max-width: 100vw;
-    height: 100vh;
-    /* background-color: lightcoral; */
+    height: 100vh; 
 }
 .page1{
     width: 100%;
@@ -22,16 +21,12 @@ body{
 .page3{
     width: 100%;
     height: 40%;
-   
 }
 .div1{
     width: 100%;
     height: 50%;
     background-color: white;
     display: flex;
-    /* align-items: center;
-    justify-content: center; */
-
 }
 .div2{
     width: 100%;
@@ -39,12 +34,10 @@ body{
     background-color:#1e3932fd;
     display: flex;
     border-top: 2px solid darkgray;
-    
 }
 .A{
     width: 15%;
     height: 100%;
-    /* background-color: beige; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,31 +45,21 @@ body{
 .B{
     width: 30%;
     height: 100%;
-    /* background-color: yellow; */
     display: flex;
-    
-    
-    
 } 
 .ul{
     display: flex;
     align-items: center;
     flex-direction: row;
-    
     justify-content: space-between;
     gap: 50px;
-
-
-    
 } 
 .C{
     width: 30%;
     height: 100%;
-    /* background-color:maroon; */
     display: flex;
     align-items: center;
     justify-content: end;
-    
 }
 .type{
     width: 300px;
@@ -88,7 +71,6 @@ body{
 .D{
     width: 25%;
     height: 100%;
-    /* background-color: olivedrab; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -96,19 +78,15 @@ body{
 .div3{
     width: 50%;
     height: 100%;
-    /* background-color: purple; */
     padding-left: 80px;
     color: white;
 }
 .div4{
     width: 50%;
     height: 100%;
-    /* background-color: orangered; */
     display: flex;
     align-items: center;
     justify-content: end;
-   
-
 }
 button{
     width: 100px;
@@ -130,7 +108,6 @@ button{
 .border1{
     height: 100%;
     width: 15%;
-    /* background-color: blanchedalmond; */
 }
 .border1 img{
     height: 210px;
@@ -139,20 +116,12 @@ button{
 .border2{
     height: 100%;
     width: 50%;
-    /* background-color: plum; */
 }
 .border3{
     height: 100%;
     width: 40%;
-    /* background-color: rgb(221, 160, 183); */
     display: flex;
     align-items: end;
-   
-  
-   
-    
-  
-    
 }
 .but{
     width: 220px;
@@ -160,8 +129,6 @@ button{
     border-radius: 25px;
     border: 2px solid green;
     background-color: darkolivegreen;
-   
-   
     position: relative;
     left: 220px;
     bottom: 25px;
@@ -170,19 +137,15 @@ button{
     width: 100px;
     height: 100px;
     border-radius: 100%;
-
 }
 .box{
     width: 100%;
     height: 20%;
-    /* background-color: blue; */
     display: flex;
-   
 }
 .box1{
     width: 100%;
     height: 80%;
-    /* background-color: brown; */
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -190,14 +153,11 @@ button{
 .box2{
     width: 130px;
     height: 150px;
-    /* background-color: bisque; */
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
    margin-bottom: 80px;
-    
-
 }
 .box2 img{
     width:100px;
@@ -215,18 +175,11 @@ button{
 .page4{
     height: 40%;
     width: 100%;
-    /* background-color: red; */
-    /* display: flex;
-    */
-    
 }
 .page5{
     height: 80%;
     width: 100%;
     background-color: goldenrod;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
 }
 .hand{
     width: 100%;
@@ -270,7 +223,6 @@ button{
 .f1 img{
     width: 75px;
     height: 75px;
-
 }
 .red{
     width: 100%;
@@ -290,8 +242,6 @@ button{
     align-items: center;
     border-radius: 20px;
     border: 2px solid darkgray;
-
-   
 }
 .bor1{
     height: 100%;
@@ -332,8 +282,6 @@ button{
     margin-top: -px;
     border-radius: 10px;
 }
-
-
 .bor1 img{
     width: 90px;
     height: 90px;
@@ -361,8 +309,6 @@ button{
     margin-top: 30px;
     border-color: green;
     background-color: green;
-
-    
 }
 .ton1:hover{
     background-color: #1e3932fd;
@@ -374,14 +320,10 @@ button{
     margin-top: 30px;
     border-color: green;
     background-color: green;
-
-    
 }
 .ton2:hover{
     background-color: #1e3932fd;
 }    
-
-
 .gap{
     margin-left: px;
     /* font-size: small; */
@@ -476,13 +418,10 @@ button{
     color: black;
     margin-left: 20px;
 }
-
 .main3{
     max-width: 100vw;
     height: 25vh;
    background-color: white;
-    
- 
 }
 .end{
    width: 100%;
